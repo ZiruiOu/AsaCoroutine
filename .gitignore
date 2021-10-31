@@ -1,0 +1,13 @@
+src/*.rkt~
+src/*.rkt#*
+src/.#*.rkt
+
+src/*.ss~
+src/*.ss#*
+src/.#*.ss
+
+src/*.scm~
+src/*.scm#*
+src/.#*.scm
+
+src/compiled
